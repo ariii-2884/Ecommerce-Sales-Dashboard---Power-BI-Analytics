@@ -35,8 +35,6 @@ The focus of this project is not just visualization, but **business-oriented ana
 - **Region-wise Performance**
 - **Monthly & Yearly Sales Trends**
 
-All KPIs are calculated using **DAX measures** for accuracy and reusability.
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -53,20 +51,22 @@ All KPIs are calculated using **DAX measures** for accuracy and reusability.
 Ecommerce Sales Dashboard/
 │
 ├── Dashboard/
-│   └── Ecommerce_Sales_Analytics_Dashboard.pbix
+│   └── Sales_Dashboard.pbix
 │
 ├── Dataset/
 │   ├── Orders.csv
 │   └── Details.csv
 │
 ├── Screenshots/
+│   ├── background.jpeg
 │   ├── dashboard_overview.png
-│   ├── kpi_cards.png
-│   ├── sales_trends.png
-│   ├── category_analysis.png
-│   ├── region_wise_sales.png
-│   ├── filters_slicers.png
-│   └── data_model.png
+│   ├── delhi_sales.png
+│   ├── furniture_sales.png
+│   ├── maharashtra_sales.png
+│   └── model_view.png
+│   └── quarter_1_sales.png
+│   └── sales_by_category.png
+│   └── sales_by_sub-category.png
 │
 └── README.md
 ```
@@ -76,7 +76,6 @@ Ecommerce Sales Dashboard/
 ## 🖼 Dashboard Preview
 The **Screenshots** folder contains visuals showcasing:
 - Overall dashboard layout
-- KPI cards for quick performance tracking
 - Sales & profit trend analysis
 - Category and sub-category breakdowns
 - Region-wise performance
@@ -100,7 +99,7 @@ These screenshots allow viewers to understand the dashboard without opening the 
 
 ## ⚙️ How to Use This Project
 1. Clone or download this repository  
-2. Open `Ecommerce_Sales_Analytics_Dashboard.pbix` using **Power BI Desktop**  
+2. Open `Sales_Dashboard.pbix` using **Power BI Desktop**  
 3. Refresh the dataset if required  
 4. Use slicers and visuals to explore insights interactively  
 

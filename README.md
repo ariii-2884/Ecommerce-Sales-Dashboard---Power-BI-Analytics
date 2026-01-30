@@ -63,9 +63,9 @@ Ecommerce Sales Dashboard/
 │   ├── delhi_sales.png
 │   ├── furniture_sales.png
 │   ├── maharashtra_sales.png
-│   └── model_view.png
-│   └── quarter_1_sales.png
-│   └── sales_by_category.png
+│   ├── model_view.png
+│   ├── quarter_1_sales.png
+│   ├── sales_by_category.png
 │   └── sales_by_sub-category.png
 │
 └── README.md
